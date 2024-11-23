@@ -1,4 +1,4 @@
-There is a new version of this repository: [click here](https://github.com/yao-papercodes/CGLRL).
+There is a new version of this repository : [click here](https://github.com/yao-papercodes/CGLRL).
 ## CGLRL's Trainning Model ( Table Ⅰof paper )
 
 | Backbone \ Target Datasets | FER2013    | ExpW       | SFEW       |
